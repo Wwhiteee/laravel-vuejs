@@ -1,0 +1,464 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"err",
+				"errors〔variable〕"
+			],
+			[
+				"error",
+				"errors〔variable〕"
+			],
+			[
+				"ne",
+				"newKeep"
+			],
+			[
+				"ur",
+				"urlCreate"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"in",
+				"inc\tblade-include"
+			],
+			[
+				"fu",
+				"fun\tFunction"
+			],
+			[
+				"get",
+				"getKeeps"
+			],
+			[
+				"th",
+				"th\tTag"
+			],
+			[
+				"product",
+				"$producto_padre〔variable〕"
+			],
+			[
+				"prodct",
+				"productos"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"fo",
+				"foreach\tblade-foreach"
+			],
+			[
+				"hr",
+				"header\tTag"
+			],
+			[
+				"aut",
+				"autocomplete"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"form",
+				"Form"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"H",
+				"HtmlServiceProvider"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"ff",
+				"ff0000"
+			],
+			[
+				"a",
+				"autocomplete\tAttr"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"gett",
+				"gettype"
+			],
+			[
+				"met",
+				"meta\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "ins",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"RE",
+				"Package Control: Remove Package"
+			],
+			[
+				"git ",
+				"Git: Status"
+			],
+			[
+				"git open",
+				"Git: Open Modified Files"
+			],
+			[
+				"git",
+				"Git: Open..."
+			],
+			[
+				"git op",
+				"Git: Open Modified Files"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 540.0
+	},
+	"console":
+	{
+		"height": 111.0,
+		"history":
+		[
+			"cls",
+			"clear",
+			"git status",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel"
+	],
+	"file_history":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel/routes/web.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel/app/Task.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel/resources/views/dashboard.blade.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel/resources/assets/js/app.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel/resources/views/app.blade.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel/webpack.mix.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel/resources/assets/js/bootstrap.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel/database/seeds/TasksTableSeeder.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel/public/js/app.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel/app/Http/Controllers/TaskController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel/database/factories/UserFactory.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel/database/seeds/DatabaseSeeder.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel/app/Providers/AppServiceProvider.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel/Homestead.yaml",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel/database/migrations/2017_12_15_230026_create_tasks_table.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel/resources/views/welcome.blade.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel/resources/assets/js/vue.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel/resources/assets/js/axios.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel/phonebook.blede.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel/package.json",
+		"/Applications/XAMPP/xamppfiles/htdocs/accionamm/resources/views/producto/index.blade.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/accionamm/resources/views/admin/dolar/index.blade.php",
+		"/Users/lalo/Library/Application Support/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/Applications/XAMPP/xamppfiles/htdocs/accionamm/app/Http/Controllers/ProductoController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/accionamm/accionamm--access_log",
+		"/Applications/XAMPP/xamppfiles/htdocs/accionamm/.env",
+		"/Applications/XAMPP/xamppfiles/etc/extra/httpd-vhosts.conf",
+		"/Users/lalo/Downloads/u202397528_amm.sql",
+		"/Applications/XAMPP/xamppfiles/htdocs/smtp/Homestead.yaml",
+		"/Users/lalo/.bitnami/stackman/machines/xampp/volumes/root/etc/httpd.conf",
+		"/Users/lalo/.bitnami/stackman/machines/xampp/volumes/root/apache2/conf/httpd.conf",
+		"/Users/lalo/Desktop/presupuesto.txt",
+		"/projects/smtp/Homestead.yaml",
+		"/private/var/folders/lc/5n20xyyn4_n2wvw_92js6f8c0000gn/T/fz3temp-2/mail.php",
+		"/private/var/folders/lc/5n20xyyn4_n2wvw_92js6f8c0000gn/T/fz3temp-2/.env",
+		"/private/var/folders/lc/5n20xyyn4_n2wvw_92js6f8c0000gn/T/fz3temp-2/edit.blade.php",
+		"/private/var/folders/lc/5n20xyyn4_n2wvw_92js6f8c0000gn/T/fz3temp-2/ResetPasswordController.php",
+		"/private/var/folders/lc/5n20xyyn4_n2wvw_92js6f8c0000gn/T/fz3temp-2/usr.blade.php",
+		"/Users/lalo/.bitnami/stackman/machines/xampp/volumes/root/etc/extra/httpd-vhosts.conf",
+		"/Applications/MAMP/htdocs/accionamm/app/usuario.php",
+		"/Applications/MAMP/htdocs/accionamm/vendor/laravel/framework/src/Illuminate/Auth/Passwords/CanResetPassword.php",
+		"/Applications/MAMP/htdocs/accionamm/hola.html",
+		"/Applications/MAMP/htdocs/accionamm/resources/views/home.blade.php",
+		"/Users/lalo/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Default (OSX).sublime-keymap",
+		"/Users/lalo/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/lalo/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Applications/MAMP/htdocs/accionamm/resources/views/layouts/admin.blade.php",
+		"/Applications/MAMP/htdocs/accionamm/resources/views/admin/info/vendidos.blade.php",
+		"/Applications/MAMP/htdocs/accionamm/resources/views/admin/index.blade.php",
+		"/Applications/MAMP/htdocs/accionamm/app/Http/Controllers/DataController.php",
+		"/Applications/MAMP/htdocs/accionamm/app/almacen.php",
+		"/Applications/MAMP/htdocs/accionamm/AMM.sublime-project",
+		"/Applications/MAMP/htdocs/accionamm/AMM.sublime-workspace",
+		"/Users/lalo/Library/Application Support/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/Users/lalo/Library/Application Support/Sublime Text 3/Packages/User/Git.sublime-settings",
+		"/Users/lalo/Desktop/hola.html",
+		"/Applications/MAMP/htdocs/accionamm/vendor/laravel/framework/src/Illuminate/Database/Eloquent/SoftDeletes.php",
+		"/Users/lalo/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/lalo/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/lalo/Desktop/index1.html",
+		"/Applications/MAMP/htdocs/test/resources/views/usuario/form/usr.blade.php",
+		"/Applications/MAMP/htdocs/test/resources/views/usuario/index.blade.php",
+		"/Applications/MAMP/htdocs/test/app/Http/Requests/LoginRequest.php",
+		"/Applications/MAMP/htdocs/test/index.html",
+		"/Applications/MAMP/htdocs/test/resources/views/login.php",
+		"/Applications/MAMP/htdocs/test/resources/views/layouts/admin.blade.php",
+		"/Applications/MAMP/htdocs/test/resources/views/usuario/create.blade.php",
+		"/Applications/MAMP/htdocs/test/app/usuario.php",
+		"/Applications/MAMP/htdocs/test/app/User.php",
+		"/Applications/MAMP/htdocs/test/database/migrations/2017_01_28_165710_create_usuarios_table.php",
+		"/Applications/MAMP/htdocs/test/resources/views/login.blade.php",
+		"/Applications/MAMP/htdocs/test/public/css/sb-admin-2.css",
+		"/Applications/MAMP/htdocs/test/public/css/metisMenu.min.css",
+		"/Applications/MAMP/htdocs/test/public/css/style.css",
+		"/Applications/MAMP/htdocs/accionamm/composer.json",
+		"/Applications/MAMP/htdocs/test/config/app.php",
+		"/Applications/MAMP/htdocs/test/composer.json",
+		"/Applications/MAMP/htdocs/test/app/Http/Controllers/UsuarioController.php",
+		"/Applications/MAMP/htdocs/test/.env",
+		"/Applications/MAMP/htdocs/test/public/css/font-awesome.min.css",
+		"/Applications/MAMP/htdocs/test/resources/views/admin/index.blade.php",
+		"/Users/lalo/Downloads/CursoLaravel5.1-Templates/Admin/index.html",
+		"/Applications/MAMP/htdocs/test/resources/views/layouts/principal.blade.php",
+		"/Applications/MAMP/htdocs/test/resources/views/welcome.blade.php",
+		"/Users/lalo/Downloads/login-form/css/style.css",
+		"/Volumes/HD/MacDocs/CB8T-XGX5-TDA4-6P8V-2BVG",
+		"/Applications/MAMP/htdocs/accionamm/.env",
+		"/Users/lalo/Desktop/Cfd_CAS0709283G5_G_309796.xml",
+		"/Users/lalo/Desktop/datos.txt",
+		"/Applications/MAMP/conf/apache/extra/httpd-vhosts.conf",
+		"/Applications/MAMP/conf/apache/httpd.conf",
+		"/Applications/MAMP/htdocs/accionamm/resources/views/producto/index.php",
+		"/Applications/MAMP/htdocs/accionamm/routes/web.php",
+		"/Applications/MAMP/htdocs/accionamm/resources/views/master.blade.php",
+		"/Applications/MAMP/htdocs/accionamm/app/Http/Controllers/ProductoController.php",
+		"/Applications/MAMP/htdocs/accionamm/database/migrations/2017_01_17_124515_create_productos_table.php",
+		"/Applications/MAMP/htdocs/accionamm/resources/views/producto/agregar.blade.php",
+		"/Applications/MAMP/htdocs/accionamm/app/productos.php",
+		"/Applications/MAMP/htdocs/accionamm/resources/views/producto/modificacar.blade.php",
+		"/Applications/MAMP/htdocs/accionamm/database/migrations/2017_01_17_133217_create_almacens_table.php",
+		"/Applications/MAMP/htdocs/accionamm/app/usuarios.php",
+		"/Applications/MAMP/htdocs/accionamm/database/migrations/2017_01_16_192824_create_usuarios_table.php",
+		"/Applications/MAMP/htdocs/accionamm/resources/views/welcome.blade.php",
+		"/Applications/MAMP/htdocs/accionamm/app/Http/Controllers/autenticacion/RegistroController.php",
+		"/Applications/MAMP/htdocs/accionamm/database/migrations/2017_01_16_191348_crear_usuarios.php",
+		"/Applications/MAMP/htdocs/accionamm/resources/views/layouts/app.blade.php",
+		"/Applications/MAMP/htdocs/accionamm/app/Http/Controllers/Auth/ForgotPasswordController.php",
+		"/Applications/MAMP/htdocs/accionamm/app/Http/Controllers/Auth/LoginController.php",
+		"/Applications/MAMP/htdocs/accionamm/app/Http/Controllers/Auth/PruebaController.php",
+		"/Applications/MAMP/htdocs/accionamm/app/Http/Controllers/Controller.php",
+		"/Applications/MAMP/htdocs/accionamm/app/Http/Controllers/Auth/ResetPasswordController.php",
+		"/Applications/MAMP/htdocs/accionamm/routes/api.php",
+		"/Applications/MAMP/htdocs/accionamm/resources/lang/es/auth.php",
+		"/Applications/MAMP/htdocs/accionamm/resources/lang/es/validation.php",
+		"/Applications/MAMP/htdocs/accionamm/resources/lang/es/pagination.php",
+		"/Applications/MAMP/htdocs/accionamm/resources/lang/es/passwords.php",
+		"/Applications/MAMP/htdocs/accionamm/resources/lang/en/pagination.php",
+		"/Applications/MAMP/htdocs/accionamm/resources/lang/en/auth.php",
+		"/Applications/MAMP/htdocs/accionamm/config/app.php",
+		"/private/etc/apache2/httpd.conf",
+		"/private/etc/apache2/extra/httpd-vhosts.conf",
+		"/private/etc/php.ini.default",
+		"/private/etc/php.ini",
+		"/Applications/XAMPP/xamppfiles/htdocs/curso1/variables.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/curso1/hola_mundo.php",
+		"/Users/lalo/Desktop/hola_mundo.php",
+		"/Volumes/Nuevo vol/Nuevo documento de texto.txt",
+		"/Users/lalo/Desktop/Microsoft Office for Mac 2016 v15.11.2/Instructions.rtf"
+	],
+	"find":
+	{
+		"height": 243.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "laravel.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 218.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
