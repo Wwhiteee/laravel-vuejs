@@ -12,11 +12,20 @@ class TaskController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
-    public function index()
+    public function index(Request $Request)
     {
-        $task = Task::all();
+        $task = Task::orderBy('id', 'DESC')->paginate(5);
 
-        return $task;
+        return ['paginate' => [
+                'total' => $task->total(),
+                'current_page' => $task->currentPage(),
+                'per_page' => $task->perPage(),
+                'last_page' => $task->lastPage(),
+                'from' => $task->firstItem(),
+                'to' => $task->lastItem(),
+                ], 
+                'task' =>$task
+        ];
     }
 
     /**
@@ -43,7 +52,11 @@ class TaskController extends Controller
      */
     public function update(Request $request, $id)
     {
-        //
+        $this->validate($request, [
+        'keep' => 'required',
+        ]);
+        Task::find($id)->update($request->all());
+        return;
     }
 
     /**
