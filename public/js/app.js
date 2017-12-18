@@ -27477,7 +27477,7 @@ new Vue({
       if (from<1) {
         from = 1;
       }
-      var to = from+ (this.offset+2); //todo
+      var to = from+ (this.offset*2); //todo
       if (to>=this.paginate.last_page) {
         to = this.paginate.last_page;
       }
